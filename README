@@ -1,0 +1,36 @@
+[Summary]
+I had to find out "PrimeDate" from a certain reason.
+"PrimeDate" is a prime number of the day that represented in the form of YYYYMMDD.
+  For example:
+	date:2016/06/11 -> Number 20160611 is prime, so this day is "PrimeDate".
+	date:2016/06/10 -> Number 20160611 is not prime, so this day is not "PrimeDate".
+
+[How to use]
+
+$ perl PrimeDate.pl -y <YEAR>
+  For example:
+	$ perl PrimeDate.pl -y 2016
+	Prime Numbers of 2016:
+	 ----> 20160319 is Prime Date!
+	 ----> 20160401 is Prime Date!
+	 ----> 20160403 is Prime Date!
+	 ----> 20160529 is Prime Date!
+	 ----> 20160601 is Prime Date!
+	 ----> 20160607 is Prime Date!
+	 ----> 20160611 is Prime Date!
+	 ----> 20160709 is Prime Date!
+	 ----> 20160727 is Prime Date!
+	 ----> 20160809 is Prime Date!
+	 ----> 20160817 is Prime Date!
+	 ----> 20160821 is Prime Date!
+	 ----> 20160923 is Prime Date!
+	 ----> 20161007 is Prime Date!
+	 ----> 20161013 is Prime Date!
+	 ----> 20161019 is Prime Date!
+	 ----> 20161021 is Prime Date!
+	 ----> 20161027 is Prime Date!
+	 ----> 20161103 is Prime Date!
+ 
+
+
+
