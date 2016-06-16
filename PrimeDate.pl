@@ -12,8 +12,6 @@ use warnings;
 use Getopt::Long;
 use Time::Local;
 
-use Calendar::Simple;
-
 #---------------------------
 #  [Config] System Config
 #---------------------------
